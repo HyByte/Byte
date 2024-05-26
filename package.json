@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "puppeteer-core": "^19.0.0",
-    "puppeteer-extra": "^5.0.0",
+   "puppeteer-extra": "^5.0.1",
     "puppeteer-extra-plugin-stealth": "^2.0.0"
   }
 }
