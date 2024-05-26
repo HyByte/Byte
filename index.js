@@ -1,4 +1,4 @@
-const puppeteer = require('puppeteer-extra');
+const puppeteer = require('puppeteer-core');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 const os = require('os');
 const { exec } = require('child_process');
